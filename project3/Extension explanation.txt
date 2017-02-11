@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl360\qc\partightenfactor0
+
+\f0\b\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Brief description of extensions\
+\pard\pardeftab720\sl360\partightenfactor0
+\cf2 	I am trying to create a breakout game that can release our pressure on the final. So I called my game \'92Kill the Final\'92. I made the following extensions in the game:\
+	1. Change the brick to GImage with final picture on it(I created that picture).\
+	2. Change the ball with the ball image provided in the Images folder by CS 1110\'92s instructor.\
+	3. Improve user control over bounces. If the ball hits the left (or right) 1/4 of the paddle, the ball goes back the way it came.\
+	4. Add an applause sound effect \'91win.wav\'92  when the user cleans a whole row. The License of the sound effect: {\field{\*\fldinst{HYPERLINK "http://www.soundjay.com/tos.html"}}{\fldrslt http://www.soundjay.com/tos.html}}\
+	5. Add the bounce sound effect of the ball. The sound effect \'91bounce.wav\'92 is provided in the Sounds f\cf0 \cb1 \outl0\strokewidth0 older by CS 1110\'92s instructor.\
+	6. Add the collide sound effect if the ball hit the bricks. The sound effect \'91plate2.wav\'92 is provided in the Sounds folder by CS 1110\'92s instructor.\
+	7. Score user\'92s performance. Every time he removes one brick, he will get 2 points.\
+	8. Add the winning screen and failure screen for reminding them go back to study the final in reality LOL.\
+}
